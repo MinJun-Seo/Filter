@@ -1,3 +1,4 @@
+#opencv를 이용하여 실시간으로 필터를 씌우는 기술
 import cv2
 
 cascade_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
