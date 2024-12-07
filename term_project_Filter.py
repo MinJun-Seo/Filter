@@ -1,3 +1,5 @@
+#opencv를 이용하여 실시간 필터기능 지원, 간단히 색상만 나옴. 
+#R,G,B버튼을 누르면 각각의 색으로 필터가 전환, X키를 누를 시 필터 해제, spacebar누를시 스크린샷
 import cv2
 import numpy as np
 from datetime import datetime  # 날짜와 시간을 다루기 위해 추가
